@@ -1,0 +1,15 @@
+[package]
+name = "Tiered rewards based on contribution levels"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x8f94f4bdf4117b866221dee286bfba979ebf90ebeb82e8563a9f7027bf67656e"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
