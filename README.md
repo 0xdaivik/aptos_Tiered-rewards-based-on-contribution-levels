@@ -53,7 +53,9 @@ The Tiered Rewards contract aims to create a transparent and motivational contri
 2. Compile the Move contract
 3. Deploy to Aptos network
 
-## Contributing
+## Contributing<img width="1440" alt="Screenshot 2025-03-26 at 11 01 13 AM" src="https://github.com/user-attachments/assets/86e451b7-5b09-4b13-98ce-559e2aaf47cb" />
+<img width="1440" alt="Screenshot 2025-03-26 at 11 01 13 AM" src="https://github.com/user-attachments/assets/fa55f4bb-bdda-4ff4-801c-d4c68c3dbfb8" />
+
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
@@ -61,3 +63,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 [Your Contact Information]
+
+## Contract Address
+0x224fd1e0ba2cc8795a6190668030e3f8e746c596dbf586bcc141fb436acc6883
