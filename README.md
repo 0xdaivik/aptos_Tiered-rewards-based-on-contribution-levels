@@ -58,11 +58,6 @@ The Tiered Rewards contract aims to create a transparent and motivational contri
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-[Specify your license here]
-
-## Contact
-[Your Contact Information]
 
 ## Contract Address
 0x224fd1e0ba2cc8795a6190668030e3f8e746c596dbf586bcc141fb436acc6883
